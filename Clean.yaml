@@ -1,0 +1,27 @@
+payload:
+  # --- 你原有的规则 (已转换) ---
+  - '+.hysteria.network'
+  - '+.copilot.microsoft.com'
+  - '+.cloudflare.com'
+  - '+.linux.do'
+  - '+.grok.com'
+  - '+.x.com'
+# --- ChatGPT 全家桶 (替代原有的 KEYWORD 匹配) ---
+  - '+.chatgpt.com'
+  - '+.openai.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+  - '+.chatgpt.livekit.cloud'  # 用于语音对话功能
+  - '+.intercom.io'           # 部分客服/插件功能
+  - '+.openai.com'  
+ # --- ChatGPT end 
+  - '+.discord.com'
+  - '+.discordapp.com'
+  - '+.shopify.com'
+  - '+.claude.ai'
+  - '+.anthropic.com'
+  - '+.canva.com'
+  - '+.medium.com'
+  - '+.coinbase.com'
+  - '+.linkedin.com'
+  - '+.pinterest.com'
