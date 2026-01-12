@@ -7,6 +7,7 @@ payload:
   - '+.grok.com'
   - '+.x.ai'
   - '+.x.com'
+  - '+.grokipedia.com'
 # --- ChatGPT 全家桶 (替代原有的 KEYWORD 匹配) ---
   - '+.chatgpt.com'
   - '+.openai.com'
